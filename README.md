@@ -1,3 +1,3 @@
 # demo-second
 
-## Sample project
+## sample/demo
